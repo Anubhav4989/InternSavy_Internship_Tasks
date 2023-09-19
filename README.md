@@ -1,6 +1,6 @@
 # Internsavy-Data Science Internship  
 
-Hello everyone! This is Anubhav Kumar Tiwary, and I'm excited to share my journey through the InternSavy Data Science Internship. I've selected three tasks to work on based on the provided instructions. Let me briefly describe each task:
+Hello everyone! I'm Anubhav Kumar Tiwary, and I'm excited to share my journey through the InternSavy Data Science Internship. In this repository, I'll briefly describe the two tasks I worked on during my internship. 
 
 ## **Task 1: Use classification technique for prediction of Graduate Admissions from an Indian perspective**
 
@@ -13,9 +13,3 @@ In this task, the goal is to use classification techniques to predict the likeli
 This task focuses on customer segmentation analysis using Python. I'll be working with customer data, and my goal is to categorize them into different groups based on their characteristics and behaviors. This segmentation will provide valuable insights for businesses, helping them better understand their customers and tailor their services accordingly.
 
 [Dataset link](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
-
-## **Task 4: Cricket Player Performance Prediction using Machine Learning**
-
-Cricket is not just a sport but a passion for many, and in this task, I get to combine my love for cricket and machine learning. By analyzing cricket player statistics, I'll build a predictive model to forecast how well a player might perform in upcoming matches. It's a thrilling challenge to explore various factors that influence players' performances and make predictions based on their past achievements.
-
-[Dataset link](https://www.kaggle.com/datasets/saivamshi/cricket-world-cup-2019-players-data)
